@@ -1,0 +1,3 @@
+HuggingFaceConfig:
+  cache_path: ./model_cache
+
